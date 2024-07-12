@@ -1,5 +1,5 @@
 # node-todo-cicd
-# this is file is for info of project
+
 Run these commands:
 
 
